@@ -19,9 +19,10 @@ class About extends React.Component {
   render() {
     const one = (
       <p>
-        I am studying <b>Computer Science</b> at{" "}
-        <b> Texas A&M University </b>. I'm currently looking
-        for interships for Summer 2021.
+        I am studying <b>Mathematics on the Data Science Track</b> at{" "}
+        <b> Texas A&M University </b>. I'm also pursuing a certificate
+        of Computer Science and a Minor in Business. I'm currently looking
+        for interships for Summer 2023.
       </p>
     );
     const two = (
