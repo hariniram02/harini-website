@@ -36,7 +36,7 @@ class Intro extends React.Component {
         <FadeInSection>
           <div className="intro-subtitle">I love to create.</div>
           <div className="intro-desc">
-            I'm a computer science student based in Dallas. I have profound 
+            I'm a junior at The University of Texas at Austin. I have profound 
             interest in machine learning, frontend development, computational 
             politics, and pretty much anything else you can think of :)
           </div>
