@@ -37,12 +37,13 @@ class About extends React.Component {
     const desc_items = [one, two];
 
     const tech_stack = [
-      "Javascript ES6+",
       "Python",
       "React.js",
       "Java",
       "C++",
-      "HTML & CSS"
+      "SQL",
+      "HTML & CSS",
+      "Javascript ES6+"
     ];
 
     const tech_items = tech_stack.map(stack => <li>{stack}</li>);
