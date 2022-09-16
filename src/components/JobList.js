@@ -82,31 +82,31 @@ const JobList = () => {
   const [value, setValue] = React.useState(0);
 
   const experienceItems = {
-    Cisco: {
-      jobTitle: "Software Engineering Apprentice @",
-      duration: "JULY 2019 - AUG 2019",
+    Chevron: {
+      jobTitle: "Software Engineering Intern @",
+      duration: "MAY 2022 - AUG 2022",
       desc: [
-        "Shadowed data analysts, program/product managers, and software engineers at Cisco.",
-        "Learned the basics of network devices, IT, programming, and networking between people.",
-        "Presented a ​final capstone project​ to encourage more engagement for the program.",
-        "Gained insight into how different groups of engineers, customer services, marketers, and business strategists work together cohesively on a project."
+        "Developed a new data integration solution via bold(API) to ingest crude oil pipeline data into Chevron Data Lake using bold(Azure Data Factory), bold(Azure Databricks), and bold(SQL/PySpark).",
+        "Project provides company bold($250k - $500k) of estimated annualized business value.",
+        "Enabled crude oil schedulers/traders to make quicker decisions on purchases and sales.",
+        "Authored technical design documentation/canonical data mapping sheet overviewing new solution for support team’s use post project go-live.",
+        "Gained working experience in an Azure DevOps environment through SAFe/Agile methodology."
       ]
     },
     TAMUHack: {
-      jobTitle: "Developer @",
-      duration: "MAR 2021 - PRESENT",
+      jobTitle: "Software Developer @",
+      duration: "MAR 2021 - AUG 2021",
       desc: [
         "Developing software tools to aid participants of Texas A&M/'s biannual hacakthons.",
-        "Currently building discord bot with Python and connecting to PostgresSQL to improve effective communication towards participants."
+        "Built discord bot with Python and connecting to PostgresSQL to improve effective communication towards participants."
       ]
     },
-    "Girls Who Code": {
-      jobTitle: "PSHS Chapter Co-President of",
-      duration: "NOV 2018 - JAN 2020",
+    "Home Roots Foundation": {
+      jobTitle: "SEO Developer @",
+      duration: "JUL 2021 - AUG 2021",
       desc: [
-        "Connected the school with a nonprofit organization aimed at increasing the number of women in computer science.",
-        "Formed a team of 7 ​high school girls to help teach a pseudo-code based programming curriculum to girls at ​3 local middle schools.",
-        "Prepared and promoted discussions on how to subside the gender employment difference in computer science and how to encourage young girls to partake in programming."
+        "Fixed metadata issues by debugging bold(HTML) code to optimize search engine results for mobile version of website.",
+        "Analyzed website’s bold(Javascript) code to understand how web crawlers access and render content."
       ]
     },
     "JPMorgan Chase": {
