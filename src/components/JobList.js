@@ -86,8 +86,8 @@ const JobList = () => {
       jobTitle: "Software Engineering Intern @",
       duration: "MAY 2022 - AUG 2022",
       desc: [
-        "Developed a new data integration solution via bold(API) to ingest crude oil pipeline data into Chevron Data Lake using bold(Azure Data Factory), bold(Azure Databricks), and bold(SQL/PySpark).",
-        "Project provides company bold($250k - $500k) of estimated annualized business value.",
+        "Developed a new data integration solution via API to ingest crude oil pipeline data into Chevron Data Lake using Azure Data Factory, Azure Databricks, and SQL/PySpark.",
+        "Project provides company $250k - $500k of estimated annualized business value.",
         "Enabled crude oil schedulers/traders to make quicker decisions on purchases and sales.",
         "Authored technical design documentation/canonical data mapping sheet overviewing new solution for support team’s use post project go-live.",
         "Gained working experience in an Azure DevOps environment through SAFe/Agile methodology."
@@ -105,8 +105,8 @@ const JobList = () => {
       jobTitle: "SEO Developer @",
       duration: "JUL 2021 - AUG 2021",
       desc: [
-        "Fixed metadata issues by debugging bold(HTML) code to optimize search engine results for mobile version of website.",
-        "Analyzed website’s bold(Javascript) code to understand how web crawlers access and render content."
+        "Fixed metadata issues by debugging HTML code to optimize search engine results for mobile version of website.",
+        "Analyzed website’s Javascript code to understand how web crawlers access and render content."
       ]
     },
     "JPMorgan Chase": {
