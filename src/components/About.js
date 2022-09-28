@@ -46,7 +46,7 @@ class About extends React.Component {
       "Javascript ES6+"
     ];
 
-    const tech_items = tech_stack.map(stack => <li>{stack}</li>);
+    // const tech_items = tech_stack.map(stack => <li>{stack}</li>);
     var image = require("./assets/me.jpg");
 
     return (
@@ -70,7 +70,7 @@ class About extends React.Component {
               </ul>
             </div>
             <div className="about-image">
-              <img src={image} />
+              <img alt="harini" src={image} />
             </div>
           </div>
         </FadeInSection>
